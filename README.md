@@ -1,5 +1,5 @@
-print('Hello world \n') 
+>>>print('Hello world \n') 
 
-print ('Hello universe \n')
+>>>print ('Hello universe \n')
 
-print ('HELLO EVERYBODY \n')
+>>>print ('HELLO EVERYBODY \n')
